@@ -1,5 +1,6 @@
 package com.divecastro.inkindex.users;
 
+// This is the User Model
 public class User {
     private String id;
     private String firstName;

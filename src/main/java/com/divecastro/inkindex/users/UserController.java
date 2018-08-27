@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
+// All RESTful Endpoints for users go here
 @RestController
 public class UserController {
 
